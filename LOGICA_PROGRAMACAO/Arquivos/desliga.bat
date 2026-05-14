@@ -1,0 +1,1 @@
+shutdow -s -t 3600 -c "Desligamento progamado para daqui a uma hora. Salve seu trabalho!"
